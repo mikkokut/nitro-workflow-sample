@@ -12,7 +12,7 @@ pnpm install
 pnpm dev
 ```
 
-## 3. Visit https://localhost:3000
+## 3. Visit http://localhost:3000
 
 ````
 Error: Unknown file extension ".ts" for /code/nitro-workflow-sample/lib/helpers.ts
